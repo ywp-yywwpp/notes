@@ -34,6 +34,8 @@
 
 [C语言中文网：C语言程序设计门户网站(入门教程、编程软件)](https://c.biancheng.net/index.html)
 
+[CppCoreGuidelines-zh-CN|C++ 核心指导方针](https://github.com/lynnboy/CppCoreGuidelines-zh-CN)
+
 ### java
 
 [存在码 - 技术文档分享站](https://cunzaima.cn/)
