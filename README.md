@@ -52,6 +52,8 @@
 
 [Java极客技术学习](https://www.javajike.com/)
 
+[How2J的Java教程](https://how2j.cn/)
+
 ### 数学
 
 [数学乐](https://www.shuxuele.com/index.html)
