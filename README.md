@@ -36,6 +36,8 @@
 
 [CppCoreGuidelines-zh-CN|C++ 核心指导方针](https://github.com/lynnboy/CppCoreGuidelines-zh-CN)
 
+[C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
+
 ### java
 
 [存在码 - 技术文档分享站](https://cunzaima.cn/)
