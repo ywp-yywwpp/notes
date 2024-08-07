@@ -40,6 +40,8 @@
 
 [现代 C++ 模板教程](https://mq-b.github.io/Modern-Cpp-templates-tutorial/)
 
+[C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
+
 ### java
 
 [存在码 - 技术文档分享站](https://cunzaima.cn/)
