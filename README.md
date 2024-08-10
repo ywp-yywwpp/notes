@@ -45,6 +45,8 @@
 
 [现代 C++ 教程：高速上手 C++ 11/14/17/20](https://changkun.de/modern-cpp/)
 
+[《Effective Modern C++》- 完成翻译](https://cntransgroup.github.io/EffectiveModernCppChinese/)
+
 ### java
 
 [存在码 - 技术文档分享站](https://cunzaima.cn/)
