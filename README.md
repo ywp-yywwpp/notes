@@ -42,6 +42,7 @@
 [现代 C++ 模板教程](https://mq-b.github.io/Modern-Cpp-templates-tutorial/)
 
 [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
+[现代 C++ 教程：高速上手 C++ 11/14/17/20](https://changkun.de/modern-cpp/)
 
 ### java
 
