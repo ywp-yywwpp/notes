@@ -47,6 +47,8 @@
 
 [《Effective Modern C++》- 完成翻译](https://cntransgroup.github.io/EffectiveModernCppChinese/)
 
+[代码随想录](https://programmercarl.com/)
+
 ### java
 
 [存在码 - 技术文档分享站](https://cunzaima.cn/)
