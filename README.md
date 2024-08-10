@@ -1,6 +1,7 @@
 ### 收藏
 
 ### c++
+[C++ 中文周刊](https://wanghenshui.github.io/cppweeklynews/)
 
 [Compiler Explorer](https://godbolt.org/)
 
