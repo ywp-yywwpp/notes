@@ -1,7 +1,6 @@
 ### 收藏
 
-### c++
-[C++ 中文周刊](https://wanghenshui.github.io/cppweeklynews/)
+### c++ online compiler
 
 [Compiler Explorer](https://godbolt.org/)
 
@@ -10,6 +9,11 @@
 [C++ Shell](https://cpp.sh/)
 
 [Coliru](https://coliru.stacked-crooked.com/)
+
+### c++
+[C++ 中文周刊](https://wanghenshui.github.io/cppweeklynews/)
+
+[C++ 之父 Bjarne Stroustrup 的 HOPL4 论文的中文版](https://github.com/Cpp-Club/Cxx_HOPL4_zh)
 
 [Learn Contemporary C++ | Concise&Visual Examples | hacking C++](https://hackingcpp.com/)
 
