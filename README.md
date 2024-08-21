@@ -99,6 +99,8 @@
 
 [《TCP/IP详解 卷1：协议》在线阅读版（全网唯一） - 即时通讯开发者社区!](http://www.52im.net/topic-tcpipvol1.html?mobile=no)
 
+[高并发的哲学原理](https://pphc.lvwenhan.com/)
+
 ### rust
 
 [Rust 语言之旅 - Let's go on an adventure!](https://tourofrust.com/00_zh-cn.html)
