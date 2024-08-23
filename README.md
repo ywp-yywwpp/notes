@@ -73,6 +73,26 @@
 
 [数学乐](https://www.shuxuele.com/index.html)
 
+### rust
+
+[Rust 语言之旅 - Let's go on an adventure!](https://tourofrust.com/00_zh-cn.html)
+
+[关于本书 - Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
+
+[Rust 文档网 - Rust 官方文档中文教程](https://rustwiki.org/)
+
+[Programming Rust | MichaelFu](https://blog.fudenglong.site/Programming-Rust/)
+
+[前言 - Rust高性能编程指南](https://colobu.com/perf-book/title-page.html)
+
+[起步 - Rust 中的异步编程](https://huangjj27.github.io/async-book/index.html)
+
+### python
+
+[简介 | Python进阶](https://eastlakeside.gitbook.io/interpy-zh)
+
+[Built with Django](https://builtwithdjango.com/projects/)
+
 ### docs
 
 [一分钟读论文 | Micropaper](https://unbug.github.io/)
@@ -101,22 +121,5 @@
 
 [高并发的哲学原理](https://pphc.lvwenhan.com/)
 
-### rust
+[经典技术书籍PDF文件在线阅读](https://awesome-programming-books.github.io/)
 
-[Rust 语言之旅 - Let's go on an adventure!](https://tourofrust.com/00_zh-cn.html)
-
-[关于本书 - Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
-
-[Rust 文档网 - Rust 官方文档中文教程](https://rustwiki.org/)
-
-[Programming Rust | MichaelFu](https://blog.fudenglong.site/Programming-Rust/)
-
-[前言 - Rust高性能编程指南](https://colobu.com/perf-book/title-page.html)
-
-[起步 - Rust 中的异步编程](https://huangjj27.github.io/async-book/index.html)
-
-### python
-
-[简介 | Python进阶](https://eastlakeside.gitbook.io/interpy-zh)
-
-[Built with Django](https://builtwithdjango.com/projects/)
