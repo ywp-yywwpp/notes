@@ -53,6 +53,8 @@
 
 [代码随想录](https://programmercarl.com/)
 
+[C++设计模式](https://github.com/liu-jianhao/Cpp-Design-Patterns)
+
 ### java
 
 [存在码 - 技术文档分享站](https://cunzaima.cn/)
