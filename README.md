@@ -55,6 +55,8 @@
 
 [C++设计模式](https://github.com/liu-jianhao/Cpp-Design-Patterns)
 
+[C++11-C++ Next新特性总结](https://github.com/0voice/cpp_new_features)
+
 ### java
 
 [存在码 - 技术文档分享站](https://cunzaima.cn/)
