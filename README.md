@@ -11,6 +11,8 @@
 [Coliru](https://coliru.stacked-crooked.com/)
 
 ### c++
+[《C++17 the complete guide》](https://github.com/MeouSker77/Cpp17)
+
 [C++ 中文周刊](https://wanghenshui.github.io/cppweeklynews/)
 
 [C++ 之父 Bjarne Stroustrup 的 HOPL4 论文的中文版](https://github.com/Cpp-Club/Cxx_HOPL4_zh)
