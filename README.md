@@ -11,7 +11,7 @@
 [Coliru](https://coliru.stacked-crooked.com/)
 
 ### c++
-[《C++17 the complete guide》](https://github.com/MeouSker77/Cpp17)
+[《C++17 the complete guide》中文版](https://github.com/MeouSker77/Cpp17)
 
 [C++ 中文周刊](https://wanghenshui.github.io/cppweeklynews/)
 
