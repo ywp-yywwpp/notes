@@ -89,9 +89,13 @@
 
 [Programming Rust | MichaelFu](https://blog.fudenglong.site/Programming-Rust/)
 
+[ProgrammingRust 个人翻译版本](https://github.com/MeouSker77/ProgrammingRust)
+
 [前言 - Rust高性能编程指南](https://colobu.com/perf-book/title-page.html)
 
 [起步 - Rust 中的异步编程](https://huangjj27.github.io/async-book/index.html)
+
+[鸟窝-Rust学习资源](https://colobu.com/)
 
 ### python
 
