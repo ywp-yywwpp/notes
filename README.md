@@ -83,7 +83,9 @@
 
 [Rust 语言之旅 - Let's go on an adventure!](https://tourofrust.com/00_zh-cn.html)
 
-[关于本书 - Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
+[Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
+
+[Rust语言实战](https://practice-zh.course.rs/)
 
 [Rust 文档网 - Rust 官方文档中文教程](https://rustwiki.org/)
 
