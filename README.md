@@ -90,6 +90,8 @@
 
 [Rust语言实战](https://practice-zh.course.rs/)
 
+[Rusty Book(锈书)](https://rusty.course.rs/)
+
 [Rust 文档网 - Rust 官方文档中文教程](https://rustwiki.org/)
 
 [Programming Rust | MichaelFu](https://blog.fudenglong.site/Programming-Rust/)
