@@ -1,7 +1,7 @@
 ### 收藏
 
 # 文档目录
-- [C++](#c++-online-compiler) - [Rust](#Rust)
+- [C++](#c++)  - [Rust](#Rust)  - [java](#java)
 
 ### c++ online compiler
 
