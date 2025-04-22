@@ -1,18 +1,8 @@
 ### 收藏
 
 # 文档目录
-- [跳转到一级标题](#这是一级标题)
-- [跳转到二级标题](#这是二级标题)
-- [跳转到三级标题](#这是三级标题)
-
-# 这是一级标题
-这里是一级标题的内容。
-
-## 这是二级标题
-这里是二级标题的内容。
-
-### 这是三级标题
-这里是三级标题的内容。
+- [C++](#c++ online compiler)
+- [Rust](#Rust)
 
 ### c++ online compiler
 
@@ -93,7 +83,7 @@
 
 [数学乐](https://www.shuxuele.com/index.html)
 
-### rust
+### Rust
 
 [Rust 语言之旅 - Let's go on an adventure!](https://tourofrust.com/00_zh-cn.html)
 
